@@ -17,5 +17,5 @@ Launch the Application: After installation, launch Renderlabs Studios from the S
 # Credits
 ## Developement: 
 - ME!
-## Sounds:
+## Attributions:
 - ([Intro 01](https://freesound.org/people/rhodesmas/sounds/353206/) by [rhodesmas](https://freesound.org/people/rhodesmas/) | License: [Attribution 3.0](http://creativecommons.org/licenses/by/3.0/)) -> [Intro Sound]
