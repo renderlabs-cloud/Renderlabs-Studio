@@ -13,8 +13,6 @@ git rm .gitignore
 
 git commit -m "$COMMIT_MSG"
 
-git rm -rf --cached .
-git add .
 
 repo_url="https://github.com/renderlabs-cloud/Renderlabs-Studio.git"
 auth_url=$(echo $repo_url | sed "s#https://#https://$token@#")
