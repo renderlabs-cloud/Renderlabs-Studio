@@ -102,13 +102,6 @@ void load_image(GtkImage* image, LPCSTR resourceName) {
     }
     size_t data_size;
     unsigned char* data = g_base64_decode(resource_data, &data_size);
-    FILE* fptr = fopen("debug.png", "wb");
-    if (fptr == NULL) {
-        g_printerr("Failed to open file for writing\n");
-        return;
-    }
-
-    fwrite(data, sizeof(char), data_size, fptr);
 
     png_image image_info = {0};
     image_info.version = PNG_IMAGE_VERSION;
