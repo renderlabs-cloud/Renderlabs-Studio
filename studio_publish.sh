@@ -8,6 +8,8 @@ if [ ! -d ".git" ]; then
     exit 1
 fi
 
+rm -fr ./src/build
+
 git add .
 git rm .gitignore
 
