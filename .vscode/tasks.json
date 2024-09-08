@@ -1,0 +1,35 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Build Renderlabs",
+            "type": "shell",
+            "command": "gcc.exe",
+            "args": [
+                "-m64",
+                "-Wall",
+                "-Wextra",
+                "-Wno-unused-parameter",
+                "-o",
+                "src/build/main.exe",
+                "src/renderlabs/main.c",
+                "@src/config/renderlabs-flags.txt",
+                "@src/config/lib-flags.txt",
+                "@src/config/resource-flags.txt",
+                "-Isrc/config/include",
+                "src/static/libglib-2.0.a"
+            ],
+            "options": {
+                "cwd": "${workspaceFolder}"
+            },
+            "problemMatcher": [
+                "$gcc"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "detail": "Build task using GCC"
+        }
+    ]
+}

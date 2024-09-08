@@ -1,0 +1,16 @@
+* {
+  border: none;
+  background-color: #1b1b1b;
+  box-shadow: inset 0 1px #1b1b1b;
+}
+
+*:focus,
+*:selected,
+*:active {
+  background-color: #1b1b1b;
+  box-shadow: none;
+}
+
+*:hover {
+  background-color: #1b1b1b;
+}

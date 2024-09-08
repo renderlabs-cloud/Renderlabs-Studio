@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interface>
+  <object class="GtkBox" id="vbox">
+    <property name="orientation">vertical</property>
+    <property name="spacing">20</property>
+    <property name="margin">20</property>
+    
+    <child>
+      <object class="GtkLabel" id="title_label">
+        <property name="label">Dashboard</property>
+        <property name="halign">center</property>
+      </object>
+    </child>
+    
+    <child>
+      <object class="GtkLabel" id="subtitle_label">
+        <property name="label">This is a subtitle with some more information.</property>
+        <property name="halign">center</property>
+      </object>
+    </child>
+    
+    <child>
+      <object class="GtkBox" id="spacer_box">
+        <property name="expand">true</property>
+      </object>
+    </child>
+  </object>
+</interface>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interface>
+  <object class="GtkBox" id="vbox">
+    <property name="orientation">vertical</property>
+    <property name="spacing">0</property>
+    <property name="margin">0</property>
+    <child>
+      <object class="GtkOverlay" id="overlay">
+        <child>
+          <object class="GtkLabel" id="loading_label">
+            <property name="label">Renderlabs Studio</property>
+            <property name="xalign">0.5</property>
+            <property name="xalign">0.5</property>            <!-- Center horizontally -->
+            <property name="yalign">0.3</property>            <!-- Align to the top -->
+          </object>
+        </child>
+      </object>
+    </child>
+    <child>
+      <object class="GtkOverlay" id="sbox">
+
+      </object>
+    </child>
+  </object>
+</interface>

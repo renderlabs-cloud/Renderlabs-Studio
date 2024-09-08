@@ -1,0 +1,1 @@
+src/resources/images/icons/renderlabs-icon.o src/resources/images/splash.o src/resources/styles/header.o src/resources/styles/renderlabs.o src/resources/sound/intro.o src/resources/window/splash.o src/resources/interface/welcome.o src/resources/interface/dashboard.o 

@@ -1,0 +1,7 @@
+[
+    {
+        "key": "ctrl+alt+b",
+        "command": "workbench.action.tasks.runTask",
+        "args": "Build Renderlabs"
+    }
+]

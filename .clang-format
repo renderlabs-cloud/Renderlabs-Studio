@@ -1,0 +1,9 @@
+# Format Style Options - Created with Clang Power Tools
+BasedOnStyle: WebKit
+BraceWrapping: 
+  AfterFunction: false
+BreakBeforeBraces: Attach
+BreakStringLiterals: false
+ColumnLimit: 100
+ContinuationIndentWidth: 2
+Cpp11BracedListStyle: true
