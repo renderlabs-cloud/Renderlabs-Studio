@@ -19,7 +19,7 @@ Launch the Application: After installation, launch Renderlabs Studios from the S
 ## Development
 - lME! ([@Renderthegreat](#))
 
-## <span style="color: #e74c3c; font-weight: bold;">Attributions</span>
+## Attributions
 - [**Intro 01**](https://freesound.org/people/rhodesmas/sounds/353206/) by [rhodesmas](https://freesound.org/people/rhodesmas/)  
   License: [Attribution 3.0](http://creativecommons.org/licenses/by/3.0/)  
   Usage: [Intro Sound]
