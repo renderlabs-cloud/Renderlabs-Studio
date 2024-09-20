@@ -19,7 +19,7 @@ Launch the Application: After installation, launch Renderlabs Studios from the S
 # Credits
 
 ## Development
-- lME! ([@Renderthegreat](#))
+- ME! ([@Renderthegreat](#))
 
 ## Attributions
 - [**Intro 01**](https://freesound.org/people/rhodesmas/sounds/353206/) by [rhodesmas](https://freesound.org/people/rhodesmas/)  
