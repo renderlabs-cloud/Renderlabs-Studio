@@ -16,8 +16,8 @@ Launch the Application: After installation, launch Renderlabs Studios from the S
 
 # Credits
 
-## <span style="color: #3498db; font-weight: bold;">Development</span>
-- <span style="color: #2ecc71; font-size: 1.2em;">ME!</span> ([@Renderthegreat](#))
+## Development
+- lME! ([@Renderthegreat](#))
 
 ## <span style="color: #e74c3c; font-weight: bold;">Attributions</span>
 - [**Intro 01**](https://freesound.org/people/rhodesmas/sounds/353206/) by [rhodesmas](https://freesound.org/people/rhodesmas/)  
