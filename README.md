@@ -1,5 +1,5 @@
 # Renderlabs Studio
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/renderlabs-cloud/Renderlabs-Studio)
+![Renderlabs Studio](https://img.shields.io/badge/Renderlabs%20Studio-Development-blue?style=flat-square)
 
 Welcome to our all in one animation studio. 
 Renderlabs Studios is a powerful 3D editing and animation software designed to provide users with advanced tools for creating and managing 3D objects, animations, and renderings. With an intuitive interface and robust features, Renderlabs Studios aims to simplify the process of 3D design and animation for both beginners and professionals.
