@@ -15,7 +15,11 @@ Run the Installer: Execute the installer program and follow the on-screen instru
 Launch the Application: After installation, launch Renderlabs Studios from the Start Menu or Desktop shortcut.
 
 # Credits
-## Developement: 
-- ME! (@Renderthegreat)
-## Attributions:
-- ([Intro 01](https://freesound.org/people/rhodesmas/sounds/353206/) by [rhodesmas](https://freesound.org/people/rhodesmas/) | License: [Attribution 3.0](http://creativecommons.org/licenses/by/3.0/)) -> [Intro Sound]
+
+## <span style="color: #3498db; font-weight: bold;">Development</span>
+- <span style="color: #2ecc71; font-size: 1.2em;">ME!</span> ([@Renderthegreat](#))
+
+## <span style="color: #e74c3c; font-weight: bold;">Attributions</span>
+- [**Intro 01**](https://freesound.org/people/rhodesmas/sounds/353206/) by [rhodesmas](https://freesound.org/people/rhodesmas/)  
+  License: [Attribution 3.0](http://creativecommons.org/licenses/by/3.0/)  
+  Usage: [Intro Sound]
