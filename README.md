@@ -7,7 +7,7 @@ Renderlabs Studios is a powerful 3D editing and animation software designed to p
 
 # Notice
 Renderlabs Studio will be written in the future in Z# with SV3D.
-Right now, all progress on this repository has been halted.
+Right now, all progress on this repository have been paused.
 
 # Credits
 
